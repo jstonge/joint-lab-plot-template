@@ -66,7 +66,7 @@
 	}
 
 	circle {
-		fill: orange;
+		fill: midnightblue;
 		fill-opacity: 0.6;
 		stroke: rgba(0, 0, 0, 0.5);
 	}

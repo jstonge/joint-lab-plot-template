@@ -1,0 +1,119 @@
+{
+    "7373730": {
+      "authorId": "7373730", 
+      "name": "J. Bongard",
+      "display_name": "Joshua C. Bongard",
+      "orcid": "https://orcid.org/0000-0001-8515-0822",
+      "last-known-institutions": [
+        {
+          "id": "https://openalex.org/I111236770", 
+          "display_name": "University of Vermont",
+          "ror": "https://ror.org/0155zta11", 
+          "country_code": "US", 
+          "type": "education"}
+      ],
+      "groups": [
+        {
+          "2023": {
+            "people": [
+               {"authorId": "", "display_name": "Slayton Marx", "status": "Undergrad"},
+               {"authorId": "", "display_name": "R. Swain"}
+            ]
+          },
+          "2022": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"}
+            ]
+          },
+          "2021": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"}
+            ]
+          },
+          "2020": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"}
+            ]
+          },
+          "2019": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"}
+            ]
+          },
+          "2018": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"}
+            ]
+          },
+          "2017": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"}
+            ]
+          },
+          "2016": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"},
+               {"authorId": "", "display_name": "Nathaniel Powell", "status": "Master"}
+            ]
+          },
+          "2015": {
+            "people": [
+               {"authorId": "", "display_name": "Karol Zieba", "status": "Master"},
+               {"authorId": "", "display_name": "Nathaniel Powell", "status": "Master"},
+               {"authorId": "", "display_name": "Afsoon Yousefi", "status": "Master"}
+            ]
+          },
+          "2014": {
+            "people": [
+              {"authorId": "", "display_name": "David Buckingham", "status": "Master"},
+              {"authorId": "", "display_name": "Afsoon Yousefi", "status": "Master"},
+              {"authorId": "", "display_name": "Karol Zieba", "status": "Master"},
+              {"authorId": "", "display_name": "Christopher Pie", "status": "Master"},
+              {"authorId": "", "display_name": "Nathaniel Powell", "status": "Master"},
+              {"authorId": "", "display_name": "Ilknur Icke", "status": "PostDoc"}
+            ]
+          },
+          "2013": {
+            "people": [
+              {"authorId": "", "display_name": "David Buckingham", "status": "Master"},
+              {"authorId": "", "display_name": "Christopher Pie", "status": "Master"},
+              {"authorId": "", "display_name": "Ilknur Icke", "status": "PostDoc"}
+            ]
+          },
+          "2012": {
+            "people": [
+              {"authorId": "", "display_name": "David Buckingham", "status": "Master"},
+              {"authorId": "", "display_name": "Yunfei Zhao", "status": "Master"},
+              {"authorId": "", "display_name": "Christopher Pie", "status": "Master"},
+              {"authorId": "", "display_name": "Somdeb Chatterjee", "status": "Master"},
+              {"authorId": "", "display_name": "Ilknur Icke", "status": "PostDoc"}
+            ]
+          },
+          "2011": {
+            "people": [
+              {"authorId": "", "display_name": "David Buckingham", "status": "Master"},
+              {"authorId": "", "display_name": "Yunfei Zhao", "status": "Master"},
+              {"authorId": "", "display_name": "Somdeb Chatterjee", "status": "Master"}
+            ]
+          },
+          "2010": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"},
+               {"authorId": "", "display_name": "Yunfei Zhao", "status": "Master"},
+               {"authorId": "", "display_name": "Somdeb Chatterjee", "status": "Master"}
+            ]
+          },
+          "2009": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"}
+            ]
+          },
+          "2008": {
+            "people": [
+               {"authorId": "", "display_name": "Peter Hurd", "status": "Master"}
+            ]
+          }
+        }
+      ]
+    }
+  }

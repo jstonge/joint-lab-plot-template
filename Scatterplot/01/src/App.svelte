@@ -1,3 +1,5 @@
+<!-- examples borrowed from: https://svelte.dev/examples/scatterplot -->
+
 <script>
 	import Scatterplot from '$components/Scatterplot.svelte';
 	import data from '$data/data.js';
@@ -18,6 +20,7 @@
     margin-bottom: 100px;
     text-align: center;
     font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
   }
 	.chart {
 		width: 100%;
